@@ -37,6 +37,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'tiagofumo/dart-vim-flutter-layout'
 Plug 'yuezk/vim-js'
 Plug 'rafcamlet/coc-nvim-lua'
+Plug 'udalov/kotlin-vim'
 "Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 "Plug 'jiangmiao/auto-pairs'
 
